@@ -8,3 +8,9 @@ I am going to include pictures and videos of what I'm passionate about.
 Some design tool that is going to help me design my website is Visualstudio.
 
 My domain name would be Meadowsplace.com
+
+2a) Put the copyright on the bottom of the page as well as the date that the website was last updated.
+
+2b) The connectivity tools that I will use will be Facebook, Gmail, and Pintrest.
+
+2c) Some ways that I could promote interactivity on my website would be
