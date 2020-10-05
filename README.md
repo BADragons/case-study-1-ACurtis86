@@ -13,13 +13,13 @@
 
 2b) The connectivity tools that I will use will be Facebook, Gmail, and Pintrest.
 
-2c) Some ways that I could promote interactivity on my website would be 
+2c) Some ways that I could promote interactivity on my website would be to show it to my friends and family and ask them to share it with their friends.
 
 2d) The tagline for my website will be 
 
 2e) The color on my website will be soft and nutural colors. They will help my website to look friendly.
 
-2f) 
+2f) My website is to show what I am doing with my life. I will be showing why I learned some instruments and Why I love traveling. I've always been interested in traveling because I want to see the world. I hvae always wanted to go to Scotland and Germany. I want to explore and be places that I have never been to before. I started playing the violin 6 years ago. I first saw Lindsay Sterling playing the violin and I thought that she looked super graceful while playing and I wanted to be like her. What I didn't know at the time was how much effort it really was to play the violin.
 
 2g)
 
