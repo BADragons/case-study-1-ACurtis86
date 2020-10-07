@@ -19,7 +19,13 @@
 
 2e) The color on my website will be soft and nutural colors. They will help my website to look friendly.
 
-2f) My website is to show what I am doing with my life. I will be showing why I learned some instruments and Why I love traveling. I've always been interested in traveling because I want to see the world. I have always wanted to go to Scotland and Germany. I want to explore and be places that I have never been to before. I started playing the violin 6 years ago. I first saw Lindsey Stirling playing the violin and I thought that she looked super graceful while playing and I wanted to be like her. What I didn't know at the time was how much effort it really was to play the violin.
+2f.1) My website is to show what I am doing with my life. I will be showing why I learned some instruments and Why I love traveling. I've always been interested in traveling because I want to see the world. I have always wanted to go to Scotland and Germany. I want to explore and be places that I have never been to before. I started playing the violin 6 years ago. I first saw Lindsey Stirling playing the violin and I thought that she looked super graceful while playing and I wanted to be like her. What I didn't know at the time was how much effort it really was to play the violin.
+
+2f.2) What I want to do with my life
+  I want to travel, play music and play games professionally.
+  Scotland and Germany are the two places that I want to visit most.
+  I play the violin, guitar, ukulele, some piano, some cello and some flute.
+  I play a lot of games on the xbox and some games on pc. 
 
 2g) I will use the RWD principals to make sure that my website is adaptible to phones, tablets, and computers. I will have all of the content of my website either in plain sight or in a menu button. If it is in a menu button I will need to make sure that everything works properly. 
 
