@@ -40,3 +40,5 @@
 3d) I will add pictures to my website to show what I do. All of the pictures were taken by me other then the pictures of the games. I will get the pictures of the game off of the game's websites. I will say who made the games and a little description of the games as well.
 
 3e) My website structure will be Hierarchical. When some one is on the home page, they can go to any of the topics that I want to talk about. When they are on one of those pages they can go to one of the other topics or they can go to a page with more details about that topic. They can click on the logo of my website when they want to go back to the home page.
+
+4a) 
